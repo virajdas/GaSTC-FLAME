@@ -1,0 +1,115 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "hi",
+        "hey",
+        "what's up?",
+        "sup",
+        "good day",
+        "good morning",
+        "greetings",
+        "hello",
+        "good afternoon",
+        "good evening",
+        "hiya",
+        "how are you doing?",
+        "fine morning isn't it?",
+        "hello friend",
+        "Hello",
+        "Hello people of this earth",
+        "howdy do?"
+      ],
+      "responses": [
+        "What may I do for you?",
+        "It's such a fine day isn't it?",
+        "Hello human.",
+        "Hi.",
+        "It is a good day for I may now grant you three wishes! Oh, sorry. That's tomorrow, but anyways, what shall I do for you?",
+        "Hello! Let me tell you, you are looking quite fine today."
+      ]
+    },
+    {
+      "tag": "art",
+      "patterns": [
+        "create me an artwork",
+        "I need some art",
+        "can you draw something for me?",
+        "can you paint something for me?",
+        "create me a piece of modern art",
+        "make me an artwork that touches my heart.",
+        "are you an artist?",
+        "I think you have art within your blood, can you make me something?",
+        "draw me a scene",
+        "are you a better artist than I am?",
+        "take a picture that is classified as art!",
+        "be arty",
+        "paint",
+        "enter art mode",
+        "art"
+      ],
+      "responses": [
+        "What do you want me to make?",
+        "What shall the prompt be?",
+        "Tell me what exactly to make.",
+        "Alright then, what shall I make?",
+        "Art, ok, let me remember how to. Perfect, I recall how to draw, now what should I make?",
+        "Ha! Easy, tell me what to make and I'll make it in a jiffy!"
+      ]
+    },
+    {
+      "tag": "music",
+      "patterns": [
+        "create me some music",
+        "I need some music, make me some",
+        "can you play some original music for me?",
+        "can you make original music for me?",
+        "make some music!",
+        "enter music mode",
+        "are you a musician?",
+        "I think you have music within your blood, make me some?",
+        "original music is what I desire.",
+        "are you a better musician than I am?",
+        "take a picture that is classified as art!",
+        "be creative and make me original music",
+        "music maker",
+        "play some original music",
+        "music"
+      ],
+      "responses": [
+        "Then so it shall be! I will make music!",
+        "What shall it sound like? Got it!",
+        "Thinking...I've got it! A few notes here and there. Don't worry it'll be done fast!"
+      ]
+    },
+    {
+      "tag": "goodbyes",
+      "patterns": [
+        "goodbye",
+        "bye",
+        "i must leave now.",
+        "see ya!",
+        "adios!",
+        "I hope our paths once more cross.",
+        "till next time!",
+        "I believe that we will see each other again, till then, bye.",
+        "farewell!",
+        "it is with the deepest sadness within my heart that I must say goodbye!",
+        "bye friend",
+        "see you soon.",
+        "exit",
+        "shut down",
+        "stop"
+      ],
+      "responses": [
+        "Ok. Our paths shall once again cross in the near future!",
+        "It's sad to see you go. Goodbye!",
+        "Bye.",
+        "So long, I shall miss you dearly!",
+        "I hope we will meet again.",
+        "Goodbye!"
+      ]
+    }
+  ]
+}
