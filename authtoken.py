@@ -1,1 +1,1 @@
-auth_token = "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"
+auth_token = "API TOKEN GOES HERE"
